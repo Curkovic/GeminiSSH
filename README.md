@@ -55,7 +55,7 @@ This will ensure only Gemini's greeting and system health message appear on SSH 
 ### 5. Test your setup
 Log out and SSH back in:
 ```bash
-ssh bot@YOUR_SERVER_IP
+ssh USER@YOUR_SERVER_IP
 ```
 You should see a dynamic greeting and a concise system health report.
 
