@@ -1,4 +1,4 @@
-# SSH Gemini Bot
+[# SSH Gemini Bot
 
 **Description:**
 SSH Gemini Bot is an AI-powered SSH assistant that provides friendly, personalized login greetings, monitors system health, and acts as a fallback chatbot for unrecognized commands. It makes SSH sessions interactive, informative, and fun.
@@ -62,3 +62,4 @@ You should see a dynamic greeting and a concise system health report.
 ## License
 This project is licensed under the MIT License.
 
+](https://itechie.eu/geminissh_setup/)
